@@ -1,2 +1,2 @@
 # De-precedentInvestmentLTD.com
-De-precedentInvestmentLTD is Nigerian's No.1 property site for real estate. We Sell, Lease, Rent And Develop Properties.
+De-precedent investment LTD is one of Nigeria's fine and trusted legal and real estate developer. We are set out to ensure your satisfaction at all times
