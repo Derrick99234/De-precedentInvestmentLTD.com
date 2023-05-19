@@ -201,6 +201,7 @@ header {
   height: 220px;
   object-fit: cover;
   object-position: center;
+  height: 400px;
 }
 .properties-container .box h3 {
   /* height: 224px; */
@@ -498,4 +499,63 @@ header {
 .about-page-text h2,
 strong {
   margin-bottom: 1rem;
+}
+
+#gallery-arrow {
+  font-size: 35px;
+  /* color: white; */
+  text-align: end;
+  margin-right: 3rem;
+  margin-top: 2rem;
+  align-items: center;
+  /* background: var(--main-color); */
+  /* border-radius: 50px; */
+  /* padding: 10px; */
+}
+/* #bullet {
+  list-style: decimal;
+  font-size: 50px;
+  /* position: relative; */
+  /* text-align: start; */
+  /* margin: auto; */
+  /* margin-bottom: ; */
+
+/* */ 
+#gallery-arrow a i {
+  color: var(--bg-color);
+  border-radius: 10px;
+  background: var(--main-color);
+}
+#gallery-arrow a i:hover {
+  color: var(--main-color);
+  background: var(--bg-color);
+}
+.box video {
+  height: 400px;
+  /* width: 400; */
+  grid-template-columns: 1fr;
+}
+
+.gallery-bg {
+  margin-top: 5rem;
+  background: var(--bg-color);
+  /* background-repeat: no-repeat; */
+  background-position: center;
+  /* height: 440px; */
+  display: flex;
+}
+
+.bg-video {
+  position: relative;
+  /* right: 0;
+  bottom: 0;
+  left: 0;
+  top: 0; */
+  /* z-index: -1; */
+  width: 100%;
+  height: auto;
+  display: flex;
+  border-radius: 10px;
+  background-size: cover;
+  margin: 5rem;
 }
